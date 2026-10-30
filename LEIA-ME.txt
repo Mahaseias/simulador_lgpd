@@ -1,18 +1,9 @@
-DEMONSTRAÇÃO DE SEGURANÇA — GITHUB PAGES
+MUNDO SENAI — DEMONSTRAÇÃO EDUCATIVA
 
-Arquivos de entrada: usuario.html e admin.html.
-Coloque todos os arquivos desta pasta na mesma pasta publicada pelo seu GitHub Pages.
-A página index.html oferece os dois acessos.
+1. Abra usuario.html e digite um dos três e-mails da feira.
+2. Digite a senha de demonstração informada pelo organizador.
+3. Realizar cadastro abre o alerta vermelho animado.
+4. Abrir painel mostra o e-mail correspondente, sem senha.
+5. Em outro dispositivo, informe DEMO-1, DEMO-2 ou DEMO-3 no painel admin.html.
 
-FUNCIONAMENTO
-1. Abra usuario.html e escolha um dos três perfis fictícios.
-2. Clique em Conectar. O alerta vermelho animado aparece.
-3. Clique em Abrir painel, ou informe o código DEMO-1, DEMO-2 ou DEMO-3 em admin.html.
-4. O painel mostra o perfil fictício correspondente.
-Em outro dispositivo, abra admin.html e digite o mesmo código.
-
-LIMITES
-Não há coleta de dados reais, banco de dados, envio remoto, registro de visitantes ou atualizações em tempo real. Os códigos identificam apenas exemplos fixos, não comprovam uma participação. O painel é público e não tem autenticação. Não coloque dados reais ou segredos no código-fonte. Os campos do participante são somente leitura para impedir coleta acidental. A senha foi removida. O alerta respeita a preferência de movimento reduzido e possui botão de pausa.
-
-LINKS APÓS A PUBLICAÇÃO
-Acrescente /usuario.html e /admin.html ao endereço base do repositório publicado. Não são links ativos antes da publicação. O URL exato depende da conta e do repositório escolhidos.
+Não há campos CPF ou telefone. Não há login no Gmail, envio de formulários, coleta de credenciais, banco de dados ou sincronização remota. O painel é público e apenas demonstra perfis predefinidos. A senha é verificada localmente por hash público, não é uma proteção de acesso. Não reutilize a senha da atividade em contas reais. A animação pode ser pausada e respeita movimento reduzido.
